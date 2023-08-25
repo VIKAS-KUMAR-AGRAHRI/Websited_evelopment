@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  label,
+  input,
+  textarea {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  button {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  #resumeOutput {
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 400px;
+    margin: 0 auto;
+  }
